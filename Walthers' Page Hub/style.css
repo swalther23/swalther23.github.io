@@ -1,0 +1,36 @@
+#title {
+	border: 40px ridge Maroon;
+	background-color: black;
+	color: white;
+	font-size: 2vw;
+	text-align: Center;
+	display:inline-block;
+	vertical-align:top; 
+}
+.LINKS {
+	display:block;
+}
+.PAGES {
+	border: 80px ridge darkgreen;
+	margin-right: 0px;
+	margin-left: 0px;
+	width:86vw;
+}
+.AbootMe {
+	display:inline-block;
+	font-size: 1.3vw;
+	border: 40px ridge purple;
+	margin-left: -5px;
+	padding-top: 10px;
+	width: 51.5vw
+}
+.websites {
+	font-size: 3vw;
+}
+#Links {
+	display:block;
+	font-size: 5vw;
+}
+body {
+	background-color: #0066A0
+}
