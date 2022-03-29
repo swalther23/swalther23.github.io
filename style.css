@@ -5,10 +5,13 @@
 	font-size: 2vw;
 	text-align: Center;
 	display:inline-block;
-	vertical-align:top; 
+	vertical-align:top;
+	height: 10vw;
+	padding-top:10px;
 }
 .LINKS {
 	display:block;
+	background-color:hotpink;
 }
 .PAGES {
 	border: 80px ridge darkgreen;
@@ -18,11 +21,13 @@
 }
 .AbootMe {
 	display:inline-block;
-	font-size: 1.3vw;
+	font-size: 1.2vw;
 	border: 40px ridge purple;
 	margin-left: -5px;
 	padding-top: 10px;
-	width: 51.5vw
+	width: 51.5vw;
+	height: 10vw;
+	background-color:yellowgreen
 }
 .websites {
 	font-size: 3vw;
