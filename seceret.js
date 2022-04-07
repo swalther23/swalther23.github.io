@@ -8,7 +8,7 @@ function password1() {
 	
 }
 function moveon(){
-        window.location='index.html';
+        window.location='mainhub.html';
     }
 document.getElementById("verify").addEventListener("click", password1)
 document.getElementById("moveon").addEventListener("click", moveon)
