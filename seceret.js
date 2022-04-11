@@ -6,5 +6,6 @@ function password1() {
 } else {
 	document.getElementById("check").innerHTML = "ACCESS DENIED"
 }
+}
 document.getElementById("verify").addEventListener("click", password1)
 //error is not an issue
