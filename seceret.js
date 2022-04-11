@@ -6,12 +6,5 @@ function password1() {
 } else {
 	document.getElementById("check").innerHTML = "ACCESS DENIED"
 }
-function moveon1() {
-		
-	}
-}
-function moveon(){
-        
-    }
 document.getElementById("verify").addEventListener("click", password1)
-document.getElementById("moveon").addEventListener("click", moveon)
+//error is not an issue
