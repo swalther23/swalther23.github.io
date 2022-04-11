@@ -50,5 +50,5 @@ body {
 	background-color: #888700;
 }
 .question {
-	display:inline-flex;
+	display:flow-root;
 }
