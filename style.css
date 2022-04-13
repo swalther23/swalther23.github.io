@@ -1,3 +1,14 @@
+#button {
+	display:inline-block;
+	vertical-align: top;
+}
+.button {
+	display:block;
+	vertical-align: top;
+}
+#image1 {
+	width: 50vw
+}
 #title {
 	border: 40px ridge Maroon;
 	background-color: black;
@@ -39,8 +50,6 @@
 }
 .websites {
 	font-size: 2vw;
-}
-#Classmate Pages {
 }
 #Links {
 	display:block;
