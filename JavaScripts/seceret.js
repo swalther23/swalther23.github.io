@@ -1,11 +1,11 @@
-
+var enteredPass; 
 function password1() {
-	if (document.getElementById("password").value == "1234"){
+	enteredPass = document.getElementById("password").value;
+	if (enteredPass == "1234"){
 	document.getElementById("check").innerHTML = "ACCESS GRANTED"
 	window.location="mainhub.html";
 } else {
-	document.getElementById("check").innerHTML = "ACCESS DENIED"
+	document.getElementById("check").innerHTML = "The Password " + document.getElementById("password").value + " was the wrong password";
 }
 }
 document.getElementById("verify").addEventListener("click", password1)
-//error is not an issue
