@@ -1,0 +1,78 @@
+.blue {
+	color: blue;
+	text-decoration-style: underline;
+}
+.inlineblock {
+	display:inline-block;
+}
+
+
+.verticalaligntop {
+	vertical-align: top;
+}
+.Title {
+	
+}
+.topbar {
+	display:inline-block;
+	border: 2vw solid whitesmoke;
+	background-color: whitesmoke;
+	vertical-align: top;
+	margin-top: 2vw;
+	margin-left: 3vw;
+	
+}
+.topbarline {
+	margin-top: -0.7vw;
+	background-color: blue;
+}
+.topleft {
+	display:inline-block;
+	margin-right: 2vw;
+}
+#Article {
+	display:inline-block;
+	border-left: 1vw solid blue;
+	border-left-width: .09vw;
+	padding-top: .25vw;
+	padding-bottom: .25vw;
+	border-bottom: 1vw solid blue;
+	border-bottom-width: .09vw;
+	padding-right: 1vw;
+}
+#Talk {
+	display:inline-block;
+	border-left: 1vw solid blue;
+	border-left-width: .09vw;
+	padding-top: .25vw;
+	padding-bottom: .25vw;
+	border-bottom: 1vw solid blue;
+	border-bottom-width: .09vw;
+	margin-left: -1vw;
+}
+.toprighttags {
+		display:inline-block;
+	border-left: 1vw solid blue;
+	border-left-width: .09vw;
+	padding-top: .25vw;
+	padding-bottom: .25vw;
+	border-bottom: 1vw solid blue;
+	border-bottom-width: .09vw;
+	padding-right: 1vw;
+}
+.topright {
+	display:inline-block;
+	margin-left: 59vw;
+}
+.leftbar {
+	display:inline-block;
+	border: 2vw solid whitesmoke;
+	background-color: whitesmoke
+}
+.maincontent {
+	width: 3vw;
+	margin-right: 1px;
+}
+.maincontent {
+	width: 85vw;
+}

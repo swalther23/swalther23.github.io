@@ -1,0 +1,34 @@
+.BlueBanner {
+	border: .05vw solid #001489;
+	background-color: #001489;
+	color: white;
+	display: 50vw inline-block;
+	width: 100vw;
+	vertical-align: top;
+	
+}
+.BlueBannerTabs {
+	display: inline-block;
+	width: 7vw;
+	font-size: .9vw;
+}
+.CenterButtons {
+	display: inline-block;
+}
+#CenterButton1 {
+	border: .25vw solid #001489;
+	vertical-align: top;
+	background-color: #001489;
+	color: white;
+	
+}
+#CenterButton2 {
+	border: .25vw solid #001489;
+	vertical-align: top;
+	background-color: #001489;
+	color: white;
+}
+#stmalogo {
+	margin-left: 0vw;
+	padding-right: 30vw
+}

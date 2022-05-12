@@ -1,0 +1,50 @@
+.topbar {
+	border: .5vw solid #303030;
+	background-color: #303030;
+	white-space: nowrap;
+	padding-bottom: -5px;
+	
+}
+.topbarwords {
+	display: inline-block;
+	vertical-align: top;
+	font-size: .75vw;
+	margin:1vw;
+	color: #d6d6d6;
+	white-space: nowrap;
+	
+}
+.topbarimg {
+	display: inline-block;
+	vertical-align: top;
+	height: 1.5vw;
+	margin: 1vw;
+	white-space: nowrap;
+	
+}
+.iconbar {
+	display:inline-block;
+	border: 1vw solid #fbfbfd;
+	background-color: #fbfbfd;
+	padding-le
+}
+
+.iconbarimg {
+	display:block;
+	height: 2vw;
+}
+#iconbarimg {
+	
+}
+.iconbarwords {
+	display: block;
+}
+#iconbarwords {
+	margin-left: vw;
+}
+.iconbarnew {
+	display: block;
+}
+#iconbarnew {
+	
+}
