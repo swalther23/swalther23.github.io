@@ -1,0 +1,48 @@
+.allitems {
+	
+}
+.centralcircle {
+	background: #ffd400;
+	border: 2vw ridge #001489;
+	border-width: 15vw;
+	height:100vw;
+	margin-right: -.5vw;
+	margin-left: -.5vw;
+	margin-top: -.5vw;
+	margin-bottom: -.5vw;
+}
+
+.bottomimgs {
+	vertical-align: top;
+	display:inline-block;	
+	margin-top: 20vw;
+	margin-bottom:0vw
+}
+.BlueBanner  {
+	vertical-align: top;
+	display:inline-block;
+	background-color: #F8CE00;
+}
+.BlueBannerTabs {
+	margin-top: 30vw;
+	margin-bottom: 30vw;
+}
+#bottombar {
+	vertical-align: top;
+	display:inline-block;
+}
+#verticalrule {
+	vertical-align: top;
+	display:inline-block;
+	border: solid #001489;
+	border-width: .3vw;
+	height: 80vw;
+	margin-bottom: -69vw;
+}
+.stmalogo {
+	width:69.420vw
+}
+.hr {
+	vertical-align: bottom;
+	background:#001489;
+}
