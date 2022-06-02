@@ -15,8 +15,16 @@
 .bottomimgs {
 	vertical-align: top;
 	display:inline-block;	
-	margin-top: 20vw;
-	margin-bottom:0vw
+	margin-bottom:0vw;
+	margin-right: .25vw;
+	margin-left: .15vw;
+	height:6vw;
+	background-color: white;
+	border: .01vw solid white;
+	border-width: .01vw;
+}
+.bellow {
+	display:inline-block;
 }
 .BlueBanner  {
 	vertical-align: top;
@@ -24,8 +32,8 @@
 	background-color: #F8CE00;
 }
 .BlueBannerTabs {
-	margin-top: 30vw;
-	margin-bottom: 30vw;
+	margin-top: 9.78vw;
+	margin-bottom: 7vw;
 }
 #bottombar {
 	vertical-align: top;
